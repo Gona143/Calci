@@ -1,0 +1,55 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\venka\\source\\repos\\calci\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{45612119-E53F-4037-AA24-5928291084E7}|calci\\calci.csproj|c:\\users\\venka\\source\\repos\\calci\\calci\\add.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45612119-E53F-4037-AA24-5928291084E7}|calci\\calci.csproj|solutionrelative:calci\\add.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45612119-E53F-4037-AA24-5928291084E7}|calci\\calci.csproj|c:\\users\\venka\\source\\repos\\calci\\calci\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45612119-E53F-4037-AA24-5928291084E7}|calci\\calci.csproj|solutionrelative:calci\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ADD.cs",
+              "DocumentMoniker": "C:\\Users\\venka\\source\\repos\\calci\\calci\\ADD.cs",
+              "RelativeDocumentMoniker": "calci\\ADD.cs",
+              "ToolTip": "C:\\Users\\venka\\source\\repos\\calci\\calci\\ADD.cs",
+              "RelativeToolTip": "calci\\ADD.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T06:36:04.834Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\venka\\source\\repos\\calci\\calci\\Program.cs",
+              "RelativeDocumentMoniker": "calci\\Program.cs",
+              "ToolTip": "C:\\Users\\venka\\source\\repos\\calci\\calci\\Program.cs",
+              "RelativeToolTip": "calci\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T06:35:47.95Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+C:\Users\venka\source\repos\calci\calci\bin\Debug\calci.exe.config
+C:\Users\venka\source\repos\calci\calci\bin\Debug\calci.exe
+C:\Users\venka\source\repos\calci\calci\bin\Debug\calci.pdb
+C:\Users\venka\source\repos\calci\calci\obj\Debug\calci.csproj.AssemblyReference.cache
+C:\Users\venka\source\repos\calci\calci\obj\Debug\calci.csproj.CoreCompileInputs.cache
+C:\Users\venka\source\repos\calci\calci\obj\Debug\calci.exe
+C:\Users\venka\source\repos\calci\calci\obj\Debug\calci.pdb
