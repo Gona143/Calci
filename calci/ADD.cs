@@ -17,8 +17,9 @@ namespace calci
            int j = Convert.ToInt32(Console.ReadLine());
             */
             int sum = i + j;
-            Console.Write("The final output is : ");
+            Console.Write("Sathish outp9ut  is : ");
             Console.WriteLine(sum.ToString());
+            //
         }
         
     }
